@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Basic Portfolio with Responsive Capabilities Using Media Queries
+# Rebecca Renavitz's Professional Responsive Portfolio
+Basic Portfolio with responsive capabilities using media queries
